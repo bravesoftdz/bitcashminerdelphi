@@ -1,18 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.429,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.086,E:\suprminer\testminer\MainUnit.pas=E:\suprminer\testminer\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=E:\suprminer\testminer\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.792,E:\suprminer\testminer\bitcashminer.dproj=E:\suprminer\testminer\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.297,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.765,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Project1.dproj=E:\suprminer\testminer\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.086,E:\suprminer\testminer\MainUnit.dfm=E:\suprminer\testminer\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas=E:\suprminer\testminer\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.359,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.259,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas=E:\suprminer\testminer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,E:\suprminer\testminer\MainUnit.pas=E:\suprminer\testminer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,E:\suprminer\testminer\MainUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.429,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,E:\suprminer\testminer\bitcashminer.dproj=E:\suprminer\testminer\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Project1.dproj=E:\suprminer\testminer\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=E:\suprminer\testminer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,E:\suprminer\testminer\MainUnit.dfm=E:\suprminer\testminer\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,E:\suprminer\testminer\Unit1.dfm=E:\suprminer\testminer\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.297,=C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,E:\suprminer\testminer\Unit1.pas=E:\suprminer\testminer\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\Christian15\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=E:\suprminer\testminer\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
