@@ -19,6 +19,7 @@ type
   TMainForm = class(TForm)
     procedure FormDestroy(Sender: TObject);
     procedure StartMiningNow;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
@@ -115,6 +116,12 @@ begin
   str.destroy;
 end;
 
+
+procedure TMainForm.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  TerminateProcess(ProcessInfo.hProcess,0);
+end;
+
 procedure TMainForm.FormDestroy(Sender: TObject);
 begin
   MyThread.Terminate;
@@ -145,7 +152,7 @@ begin
     address:=paramstr(2);
     urlstr:=paramstr(3);
 
-    DosApp := 't-rex -a x16r -o '+urlstr+' -u '+address;
+    DosApp := 't-rex -a x25x -o '+urlstr+' -u '+address+' -p c=BITC';
 
   // create pipes
     With Security do
